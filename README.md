@@ -18,9 +18,9 @@
 
 % npx json-server --watch db.json --port 3100
 
-## TODOアプリ を実行 React + Vite
+## TODOアプリ を実行
 
-% npm run dev
+% npm start
 
 ## 実行画面
 
